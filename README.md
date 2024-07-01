@@ -2,7 +2,7 @@
 xxxxxa
 [[package]]
 name = "charset-normalizer"
-version = "3.3.3"
+version = "3.3.4"
 description = "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet."
 optional = false
 python-versions = ">=3.6.1"
